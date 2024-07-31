@@ -2,25 +2,25 @@
 
 This project focuses on classifying the heart disease using ML algorithms like:
 
-Logistic regression
+⦿ Logistic regression
 
-Decision Tree Classifier
+⦿ Decision Tree Classifier
 
-Random Forest
+⦿ Random Forest
 
 
 
 ## Steps
 
-Exploratory data analysis
+- Exploratory data analysis
 
-Implementation of ML models using all features
+- Implementation of ML models using all features
 
-Feature Selection 
+- Feature Selection 
 
-Implementation of ML models using Selected features 
+- Implementation of ML models using Selected features 
 
-Comparative analysis of models using ROC curves
+- Comparative analysis of models using ROC curves
 
 ### Data Source
 
